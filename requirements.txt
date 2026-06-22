@@ -1,0 +1,5 @@
+tensorflow-cpu
+streamlit
+scikit-learn
+numpy
+pickle5
