@@ -1,4 +1,0 @@
-tensorflow-cpu
-streamlit
-scikit-learn
-numpy
