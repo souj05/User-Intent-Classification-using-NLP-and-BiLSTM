@@ -11,9 +11,14 @@ streamlit run app.py
 ## ⚡ Run FastAPI
 ```bash
 uvicorn main:app --reload
+http://127.0.0.1:8000
 ```
-API Docs: http://localhost:8000/docs
 
+### 📖 Swagger API Documentation
+
+```
+http://127.0.0.1:8000/docs
+```
 ## 🐳 Run with Docker
 ```bash
 docker build -t intent-classifier .
