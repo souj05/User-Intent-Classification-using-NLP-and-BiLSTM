@@ -19,6 +19,20 @@ http://127.0.0.1:8000
 ```
 http://127.0.0.1:8000/docs
 ```
+## 📸 Screenshots
+
+### Swagger API
+
+![Swagger UI](Fastapi_3.png)
+
+---
+
+### Prediction Example
+
+![Prediction](Fastapi_2.png)
+
+---
+
 ## 🐳 Run with Docker
 ```bash
 docker build -t intent-classifier .
