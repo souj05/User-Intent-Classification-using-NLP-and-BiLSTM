@@ -23,13 +23,13 @@ http://127.0.0.1:8000/docs
 
 ### Swagger API
 
-![Swagger UI](Fastapi_3.png)
+![Swagger UI](FastApi_2.png)
 
 ---
 
 ### Prediction Example
 
-![Prediction](Fastapi_2.png)
+![Prediction](FastApi_3.png)
 
 ---
 
